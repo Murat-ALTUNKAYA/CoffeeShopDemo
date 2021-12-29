@@ -1,0 +1,7 @@
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe.config
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.pdb
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.AssemblyReference.cache
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.exe
+D:\Github\CoffeeShopDemo\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.pdb
